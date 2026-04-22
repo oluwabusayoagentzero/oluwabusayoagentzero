@@ -1,15 +1,15 @@
 # Hi, I'm Oluwabusayo 👋
 ### AI Engineer · Agent Architect · AI Orchestrator
 
-> *I don't just build AI tools — I design intelligent systems that think, reason, and act in the real world.*
+> *I don't just build AI tools — I design intelligent systems that think, reason, and act in the real business world.*
 
 ---
 
 ## 🧠 What I Do
 
-I specialize in **designing and orchestrating multi-agent AI systems** — from knowledge graphs powering legal intelligence, to stateful image editing pipelines, to real-time WhatsApp business automation. My work sits at the intersection of **AI architecture, agent orchestration, and production-grade engineering**.
+I specialize in **designing and orchestrating multi-agent AI systems** — for scaling businesses and helping improve business workflows **AI architecture, agent orchestration, and production-grade engineering**.
 
-I think in systems. I build in Python and TypeScript. I ship agents that work.
+I think in systems. I build in Python and TypeScript and also setup multi agent systems like openclaw.
 
 ---
 
